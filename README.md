@@ -20,9 +20,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=macrotek&show_icons=true&locale=en&layout=compact&show_icons=true&theme=nightowl" alt="macrotek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macrotek&show_icons=true&locale=en" alt="macrotek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macrotek&show_icons=true&locale=en&layout=compact&show_icons=true&theme=nightowl" alt="macrotek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macrotek&" alt="macrotek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macrotek&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="macrotek" /></p>
 # Let's Connect :handshake:
 
 <p><a href="https://github.com/sanit7722" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/sanitdhuri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sanit-dhuri-3195b5163/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/accounts/login/?next=/sanitdhuri/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
