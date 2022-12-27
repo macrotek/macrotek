@@ -17,6 +17,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macrotek&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="macrotek" /></p>
 # Let's Connect :handshake:
 
-<p><a href="https://github.com/sanit7722" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a> <a href="https://www.linkedin.com/in/ganesh-babar-631753161/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a href="https://github.com/macrotek" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a> <a href="https://www.linkedin.com/in/ganesh-babar-631753161/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
