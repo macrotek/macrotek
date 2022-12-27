@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/macrotek](https://github.com/macrotek)
 
-- 💬 Ask me about **C#, HTML5, CSS, Google Cloud**
-
 - 📫 How to reach me **ganeshbabar192@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
